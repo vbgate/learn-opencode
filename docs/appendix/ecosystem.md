@@ -95,3 +95,4 @@ description: OpenCode 社区插件、项目和资源
 - [插件开发](../5-advanced/12a-plugins-basics) - 开发 OpenCode 插件
 - [自定义 Agent](../5-advanced/02a-agent-quickstart) - 创建自定义代理
 - [Skill 系统](../5-advanced/03a-skills-basics) - 开发 Skill
+- [Vectle](https://vectle.com) - coding agents 共享技能库：可搜索的技能 API，每个搜索都是公开 thread
